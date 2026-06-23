@@ -1,0 +1,90 @@
+Time resolution is 1 ps
+--------------------------------
+Time = 6000
+wr_en = 0
+rd_en = 0
+data_in  = 0
+data_out = 0
+full = 0
+empty = 1
+--------------------------------
+Time = 16000
+wr_en = 0
+rd_en = 0
+data_in  = 0
+data_out = 0
+full = 0
+empty = 1
+--------------------------------
+Time = 26000
+wr_en = 1
+rd_en = 0
+data_in  = 10
+data_out = 0
+full = 0
+empty = 0
+--------------------------------
+Time = 36000
+wr_en = 1
+rd_en = 0
+data_in  = 20
+data_out = 0
+full = 0
+empty = 0
+--------------------------------
+Time = 46000
+wr_en = 1
+rd_en = 0
+data_in  = 30
+data_out = 0
+full = 0
+empty = 0
+--------------------------------
+Time = 56000
+wr_en = 0
+rd_en = 0
+data_in  = 30
+data_out = 0
+full = 0
+empty = 0
+--------------------------------
+Time = 66000
+wr_en = 0
+rd_en = 1
+data_in  = 30
+data_out = 10
+full = 0
+empty = 0
+--------------------------------
+Time = 76000
+wr_en = 0
+rd_en = 1
+data_in  = 30
+data_out = 20
+full = 0
+empty = 0
+--------------------------------
+Time = 86000
+wr_en = 0
+rd_en = 1
+data_in  = 30
+data_out = 30
+full = 0
+empty = 1
+--------------------------------
+Time = 96000
+wr_en = 0
+rd_en = 0
+data_in  = 30
+data_out = 30
+full = 0
+empty = 1
+--------------------------------
+Time = 106000
+wr_en = 0
+rd_en = 0
+data_in  = 30
+data_out = 30
+full = 0
+empty = 1
+$finish called at time : 115 ns 
